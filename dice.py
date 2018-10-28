@@ -9,7 +9,7 @@ def printHisto(h, i):
         i += 1
 
 # Return a number between nbDice and nbDice*6
-# following Normal distrib of dice um
+# following Normal distrib of dice sum
 def diceProba(nbDice, prob):
     r = random.random()
     i = nbDice
